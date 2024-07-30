@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://everettcaldwell.github.io/</loc>
+         <lastmod>2024-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://everettcaldwell.github.io/hacking_roblox_lua/readme/</loc>
+         <lastmod>2024-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://everettcaldwell.github.io/remix_full_stack_journey/readme/</loc>
+         <lastmod>2024-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://everettcaldwell.github.io/reverse_engineering_graphql_api/readme/</loc>
+         <lastmod>2024-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

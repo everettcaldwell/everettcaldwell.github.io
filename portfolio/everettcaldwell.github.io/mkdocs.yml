@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: Everett's Digital Portfolio
+site_url: https://everettcaldwell.github.io/
+site_author: Everett Caldwell
+site_description: >-
+  Welcome to my datascience portfolio, my repository of greatness.
+
+repo_name: everettcaldwell/everettcaldwell.github.io
+repo_url: https://github.com/everettcaldwell/everettcaldwell.github.io
+
+theme:
+  name: material
+
+extra:
+  analytics:
+    provider: google
+    property: G-3FC0QKX8ZD
+
+nav:
+- Home: index.md
+- Current project:
+  - "Remix.js: My Full Stack Journey": remix_full_stack_journey/readme.md
+- Past projects:
+  - "Reverse Engineering a GraphQL API": reverse_engineering_graphql_api/readme.md
+  - "Hacking Roblox with Lua": hacking_roblox_lua/readme.md
